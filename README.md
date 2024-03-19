@@ -37,6 +37,7 @@ They are:
 
 Again, any help, change, evolution, suggestion will be VERY welcome. This batch work is for the community.
 
+```
 +-----------------+
 + Sola scriptura  +
 + Solus Christus  +
@@ -44,3 +45,4 @@ Again, any help, change, evolution, suggestion will be VERY welcome. This batch 
 + Soli Deo gloria +
 + AMEN            +
 + ----------------+
+```
