@@ -14,3 +14,33 @@ The idea is to make working with the Virtual Environment easier, which didn't se
 At first, the idea was implemented for Python developers who work primarily in a Windows environment. For this reason, both the creation script and the created scripts were elaborated in Batch file script, considering MS VSCode as editor / IDE.
 
 Any help, change, evolution, suggestion will be welcome.
+
+Usage suggestions / sequence:
+
+0. Create your Python project folder (e.g.: D:\code\python\helloe_world\)
+1. Go to your Python project folder  (e.g.: CD \code\python\helloe_world\)
+2. Download eveh_create.bat into the project folder
+3. Run eveh_create.bat - It will create some other bat files that will be useful along the way.
+Each bat file has its purpose for using with your Python virtual environment.
+They are:
+- create.bat -> CREATES the virtual environment.
+- activate.bat -> activates the virtual environment.
+- deactivate.bat -> DEactivates the virtual environment.
+- edit.bat -> let's you edit the virtual environment (I don't remember that one well... LOL - please look into the file's batch code for more detail).
+- remove.bat -> removes the virtual environment when you find it no more necessary.
+4. Run create.bat
+5. Run activate.bat
+6. Work on your Python project.
+7. Whenever needed or at the end of the day, deactivate the virtual environment by running deactivate.bat.
+8. If or when you don't see any purpose for that venv anymore you can kill it by running remove.bat.
+9. Whenever needed, run edit.bat to change your venv.
+
+Again, any help, change, evolution, suggestion will be VERY welcome. This batch work is for the community.
+
++-----------------+
++ Sola scriptura  +
++ Solus Christus  +
++ Sola gratia     +
++ Soli Deo gloria +
++ AMEN            +
++ ----------------+
