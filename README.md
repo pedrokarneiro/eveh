@@ -5,9 +5,13 @@ E.V.E.H. - Easier Virtual Environment Handling. A set of tools aimed to ease the
 ### E.V.E.H. - Easier Virtual Environment Handling             ###
 ### Files that support an easier virtual environment handling  ###
 ###                                                            ###
-### Created: 2022-12-16 - @pedrokarneiro, Goiânia-GO-Brazil    ###
+### Created (Batch version): 2022-12-16 - @pedrokarneiro       ###
+### Bash version added:      2024-04-05                        ###
 ###                                                            ###
 ##################################################################
+
+If you want the Windows version, use the "bat" files - E.g.: eveh_create.bat.
+If you want the Unix/Linux version, use the "sh" files - E.g.: eveh_create.sh.
 
 The idea is to make working with the Virtual Environment easier, which didn't seem very straightforward to manage. I hope the idea evolves and can contemplate other command line operations for those who work with Python, aiming at a more structured and standardized environment.
 
