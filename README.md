@@ -30,7 +30,7 @@ They are:
 - create.bat -> CREATES the virtual environment.
 - activate.bat -> activates the virtual environment.
 - deactivate.bat -> DEactivates the virtual environment.
-- edit.bat -> let's you edit the virtual environment (I don't remember that one well... LOL - please look into the file's batch code for more detail).
+- edit.bat -> calls an editor for your code in the current directory. Currently implemented only for VS Code. Contributions?
 - remove.bat -> removes the virtual environment when you find it no more necessary.
 4. Run create.bat
 5. Run activate.bat
